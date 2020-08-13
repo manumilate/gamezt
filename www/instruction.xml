@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<chapter1>
+		<hint id="intro1">Welcome Soldier! Press X to continue.</hint>		
+		<hint id="intro2">These kind of signs will give you further instruction about the game.</hint>
+		<hint id="intro3">If you didn't set your controls in the menu, use Arrow Keys to move!</hint>
+		<hint id="intro4">You can press p for pause.</hint>
+	</chapter1>

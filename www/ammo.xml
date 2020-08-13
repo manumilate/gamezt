@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<chapter1>
+		<hint id="intro1">Some ammo for your gun!</hint>		
+		<hint id="intro2">If you are out of ammo press R to reload.</hint>
+		<hint id="intro3">Lets take it!</hint>
+	</chapter1>
